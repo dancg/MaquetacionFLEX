@@ -10,7 +10,7 @@ Este proyecto contiene un directorio llamado maquetacionFLEX con el fichero inde
 El proyecto se ha realizado con Visual Studio Code
 
 ## Despliegue :telescope:
-Si pincha [aquí] (https://github.com/dancg/MaquetacionFLEX/blob/main/maquetacionFLEX/maquetacionFlex_Practica01.html) se dirigirá al index.html del proyecto
+Si pincha [aquí](https://github.com/dancg/MaquetacionFLEX/blob/main/maquetacionFLEX/maquetacionFlex_Practica01.html) se dirigirá al index.html del proyecto
 
 ## Construido con :hammer:
 Lenguaje HTML y CSS
