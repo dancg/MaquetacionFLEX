@@ -4,13 +4,13 @@
 Este proyecto es un ejemplo de una página web simple realizada con maquetación FLEX de CSS
 
 ## Contenido :file_folder:
-Este proyecto contiene un directorio llamado maquetacionFLEX con el fichero index.html donde se ve la página principal, un directorio donde se guarda el fichero CSS externo llamado estilos.css y un directorio de imágenes img donde están las imágenes usadas en el proyecto. Además contiene este mismo fichero README.md y la licencia utilizada.
+Este proyecto contiene un directorio llamado maquetacionFLEX con el fichero maquetacionFlex_Practica01.html donde se ve la página principal, un directorio donde se guarda el fichero CSS externo llamado estilos.css y un directorio de imágenes img donde están las imágenes usadas en el proyecto. Además contiene este mismo fichero README.md y la licencia utilizada.
 
 ## Desarrollo del proyecto :computer:
 El proyecto se ha realizado con Visual Studio Code
 
 ## Despliegue :telescope:
-Si pincha [aquí](https://github.com/dancg/MaquetacionFLEX/blob/main/maquetacionFLEX/maquetacionFlex_Practica01.html) se dirigirá al index.html del proyecto
+Si pincha [aquí](https://github.com/dancg/MaquetacionFLEX/blob/main/maquetacionFLEX/maquetacionFlex_Practica01.html) se dirigirá al fichero maquetacionFlex_Practica01.html del proyecto
 
 ## Construido con :hammer:
 Lenguaje HTML y CSS
